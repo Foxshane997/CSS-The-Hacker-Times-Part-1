@@ -55,10 +55,13 @@ li {
 }
 
 nav {
+    background-color: whitesmoke;
     border-top: 1px solid #777;
     border-bottom: 1px solid #777;
     margin-right:5px;
     margin-left: 5px;
+    position: sticky;
+    top: 0;
 }
 
 #main-p {
